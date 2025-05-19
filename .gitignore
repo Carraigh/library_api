@@ -1,0 +1,39 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.db
+*.sqlite3
+*.log
+*.pot
+*.mo
+*.po
+coverage/
+build/
+dist/
+*.egg-info/
+env/
+venv/
+.virtualenv/
+.pytest_cache/
+.vscode/
+*.swp
+*.swo
+
+# FastAPI / Uvicorn
+*.db
+*.sqlite3
+__pycache__
+*.pyc
+
+# IDE
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
